@@ -10,11 +10,15 @@ I hope this project can grow for those from beginners to advanced learners.
 
 - Paul Hughes
 
+## Be Sure to Bookmark Page
+- [Java Complete Reference](https://hughpaud2014.github.io/javaCompleteReferenceBundle/)
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
+- `src/ExampleOne`: the subfolder to maintain learning track 1
 - `lib`: the folder to maintain dependencies
 
 ## Dependency Management

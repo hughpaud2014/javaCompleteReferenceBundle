@@ -1,8 +1,9 @@
+package ExampleOne;
+
 /* 
     This is a simple Java app.
     Call this file "FirstSimpleJavaApp.java"
 */
-
 
 public class FirstSimpleJavaApp {
 
