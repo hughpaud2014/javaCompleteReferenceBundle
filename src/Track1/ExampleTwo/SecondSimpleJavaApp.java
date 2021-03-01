@@ -1,4 +1,4 @@
-package ExampleTwo;
+package Track1.ExampleTwo;
 
 /*
     Here is another short example.
