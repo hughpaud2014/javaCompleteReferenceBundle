@@ -29,6 +29,7 @@ If you do not have Java installed on your computer, you can download it for free
 ### Setup for Windows
 To install Java on Windows:
 
+
 - Go to "System Properties" (Can be found on Control Panel > System and Security > System > Advanced System Settings)
 - Click on the "Environment variables" button under the "Advanced" tab
 - Then, select the "Path" variable in System variables and click on the "Edit" button
