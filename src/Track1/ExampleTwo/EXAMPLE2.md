@@ -17,4 +17,4 @@ The left part of this statement describes the variable, and the right part descr
 
 
 ## Recommended Readings
-- Oracle "Java- The Complete Reference 11th Edition ISBN: 978-1260-44023-2
+- Oracle "Java- The Complete Reference 11th Edition ISBN: 978-1260-44023-2"
