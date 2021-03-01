@@ -26,7 +26,7 @@ Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.1+13-LTS, mixed mode)
 
 If you do not have Java installed on your computer, you can download it for free at oracle.com.
 
-#Setup for Windows
+### Setup for Windows
 To install Java on Windows:
 
 Go to "System Properties" (Can be found on Control Panel > System and Security > System > Advanced System Settings)
