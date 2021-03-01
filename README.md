@@ -19,7 +19,7 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `src/ExampleOne`: the subfolder to maintain learning track 1
-- - `src/ExampleTwo`: the subfolder to maintain learning track 1
+- `src/ExampleTwo`: the subfolder to maintain learning track 1
 - `lib`: the folder to maintain dependencies
 
 ## Dependency Management
