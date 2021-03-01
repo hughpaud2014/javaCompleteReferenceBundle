@@ -1,3 +1,4 @@
+package ExampleTwo;
 
 /*
     Here is another short example.
