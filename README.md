@@ -29,12 +29,12 @@ If you do not have Java installed on your computer, you can download it for free
 ### Setup for Windows
 To install Java on Windows:
 
-Go to "System Properties" (Can be found on Control Panel > System and Security > System > Advanced System Settings)
-Click on the "Environment variables" button under the "Advanced" tab
-Then, select the "Path" variable in System variables and click on the "Edit" button
-Click on the "New" button and add the path where Java is installed, followed by \bin. By default, Java is installed in C:\Program Files\Java\jdk-11.0.1 (If nothing else was specified when you installed it). In that case, You will have to add a new path with: C:\Program Files\Java\jdk-11.0.1\bin
-Then, click "OK", and save the settings
-At last, open Command Prompt (cmd.exe) and type java -version to see if Java is running on your machine
+- Go to "System Properties" (Can be found on Control Panel > System and Security > System > Advanced System Settings)
+- Click on the "Environment variables" button under the "Advanced" tab
+- Then, select the "Path" variable in System variables and click on the "Edit" button
+- Click on the "New" button and add the path where Java is installed, followed by \bin. By default, Java is installed in C:\Program Files\Java\jdk-11.0.1 (If nothing else was specified when you installed it). In that case, You will have to add a new path with: C:\Program Files\Java\jdk-11.0.1\bin
+- Then, click "OK", and save the settings
+- At last, open Command Prompt (cmd.exe) and type java -version to see if Java is running on your machine
 
 
 
