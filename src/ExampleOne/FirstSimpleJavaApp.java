@@ -1,4 +1,4 @@
-package Track1.ExampleOne;
+package ExampleOne;
 
 /* 
     This is a simple Java app.

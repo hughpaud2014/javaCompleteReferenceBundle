@@ -20,4 +20,4 @@ you will get to learn about them.
 - [JetBrains Academy](https://hyperskill.org/join/4ffedd54a) Java Developer Track
 
 ## Recommended Readings
-- Oracle "Java- The Complete Reference 11th Edition ISBN: 978-1260-44023-2"
+- Oracle "Java- The Complete Reference 11th Edition ISBN: 978-1260-44023-2
