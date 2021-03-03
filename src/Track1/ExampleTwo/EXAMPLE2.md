@@ -1,7 +1,7 @@
 ## Explanation of this example
 A variable is a placeholder for storing a value of particular type: a string, a number, or something else. Every variable has a name (also known as an identifier) to distinguish it from others. Before you start using a variable, you must declare it.
 
-Example: 
+### Example: 
 DataType variableName = initialization; 
 The left part of this statement describes the variable, and the right part describes something that is assigned to it.
 
