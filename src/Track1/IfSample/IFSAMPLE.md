@@ -6,7 +6,7 @@ The conditional statement is a structure that allows the app/program to execute 
 
 I am sure in your quest to be a coding 'god' you thought the human example would be complex, in some cases it can but I wil not dive into it and turn this into human studies. So in the `IfSample.java` we explore a simple "If" conditional statement to computate the 'x' and 'y' variables with certain criterias to generate a result.
 
-### Note: Simple rule of thumb to remeber the syntax of an 'If' statement it is : <em>if(condition)statement</em>
+### Note: Simple rule of thumb to remember the syntax of an 'If' statement it is : <em>if(condition)statement</em>
 
 
 
