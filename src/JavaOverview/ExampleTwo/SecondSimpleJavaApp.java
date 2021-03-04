@@ -1,4 +1,4 @@
-package Track1.ExampleTwo;
+package JavaOverview.ExampleTwo;
 
 /*
     Here is another short example.

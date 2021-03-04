@@ -1,4 +1,4 @@
-package Track2.LightApp;
+package DataTypes.LightApp;
 
 /*
     Compute distance light travels using long variables.

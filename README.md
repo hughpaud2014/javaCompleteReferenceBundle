@@ -1,14 +1,14 @@
 ## The Purpose
 
-The purpose of this java project is to demonstrate the Java language. We are using the Oracle: Java The Complete Reference 11th edition by Herbert Schildt (not associated with this project) as a guide for educational purposes. In normal development, Apps/Programs are developed with many files, that in layman's terms, "piggy-back" off each other to form one fully operational application. What is quite often forgotten is that many of the files in those apps/programs are individual apps/programs themselves that perform a task.
+<p>The purpose of this java project is to demonstrate the Java language. We are using the Oracle: Java The Complete Reference 11th edition by Herbert Schildt (not associated with this project) as a guide for educational purposes. In normal development, Apps/Programs are developed with many files, that in layman's terms, "piggy-back" off each other to form one fully operational application. What is quite often forgotten is that many of the files in those apps/programs are individual apps/programs themselves that perform a task.</p>
 
-For example, I might have an app that will contain a java file that serves as the entry point for the application, such as App.java. Next, I may have a file called Person.java, well Person.java will contain all the necessary building blocks that will only deal with the Person class that the App.java file will use. 
+<p>For example, I might have an app that will contain a java file that serves as the entry point for the application, such as App.java. Next, I may have a file called Person.java, well Person.java will contain all the necessary building blocks that will only deal with the Person class that the App.java file will use.</p>
 
-If any sample code requires these complex structures, it will be defined in a subfolder located in the `src` folder. To distinguish files I label them as Tracks. The reason for using the term tracks is to help those learn and may need more resources and can just review topics in appropriate track level. Picture this learning to be like being in detention and just simply writing something over and over again till it is burned in your memory. 
+<p>If any sample code requires these complex structures, it will be defined in a subfolder located in the `src` folder. To distinguish files I label them as the topic of demonstration. This is to help those learn and may need more resources and can just review topics in appropriate designation level. Picture this learning is just simply writing something over and over again till it is burned in your memory. </p>
 
-I hope this project can grow for those from beginners to advanced learners.
+<p>I hope this project can grow for those from beginners to advanced learners.</p>
 
-- Paul Hughes
+<em>- Paul Hughes</p>
 
 ## Getting Started
 Java Install
@@ -48,7 +48,8 @@ To install Java on Windows:
 The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
-- `src/Track1`: the subfolder to maintain learning track 1
+- `src/JavaOverview`: the subfolder to maintain learning the overview of Java
+- `src/DataTypes`: the subfolder to main learning data types, variables, and arrays
 - `lib`: the folder to maintain dependencies
 
 ## Dependency Management

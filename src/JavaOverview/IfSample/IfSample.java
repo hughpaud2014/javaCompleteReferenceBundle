@@ -1,4 +1,4 @@
-package Track1.IfSample;
+package JavaOverview.IfSample;
 
 /*
     Demonstrate the if statement.
