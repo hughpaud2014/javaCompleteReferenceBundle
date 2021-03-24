@@ -1,17 +1,5 @@
 ## Explanation of this example
-<p></p>
-
-<p></p>
-
-
-<code>
-// Psuedo code demonstration of topic
-</code>
-
-
-
-
-
+<p>Here in this example we discuss three local variables, "a", "b" and "c" and declare them. "a" and "b", are initialized by constants. "c" is initialized dynamically to the length of hypotenuse(Yes MATH!!!) Method used in this project is the <em>sqrt()</em> method. </p>
 
 
 
