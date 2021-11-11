@@ -8,7 +8,7 @@
 
 <p>I hope this project can grow for those from beginners to advanced learners.</p>
 
-<em>- Paul Hughes</p>
+<em>- Paul Hughes
 
 ## Getting Started
 Java Install
@@ -49,7 +49,8 @@ The workspace contains two folders by default, where:
 
 - `src`: the folder to maintain sources
 - `src/JavaOverview`: the subfolder to maintain learning the overview of Java
-- `src/DataTypes`: the subfolder to main learning data types, variables, and arrays
+- `src/DataTypes`: the subfolder to maintain learning data types, variables, and arrays
+- `src/Variables`: the subfolder to maintain learning of variable topics, rules, and demonstration of errors
 - `lib`: the folder to maintain dependencies
 
 ## Dependency Management
