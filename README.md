@@ -8,7 +8,7 @@
 
 <p>I hope this project can grow for those from beginners to advanced learners.</p>
 
-<em>- Paul Hughes
+<em>- Paul Hughes </em>
 
 ## Getting Started
 Java Install
